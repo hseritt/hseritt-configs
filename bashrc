@@ -130,6 +130,7 @@ alias cd2='cd ../..'
 alias cd3='cd ../../..'
 alias cd4='cd ../../../..'
 alias cd5='cd ../../../../..'
+alias cdd="cd $HOME/Downloads"
 alias cls='clear; reset'
 alias cw="cd $HOME/Coursework"
 alias dev="cd $HOME/Development"
