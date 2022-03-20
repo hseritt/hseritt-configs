@@ -139,6 +139,7 @@ alias docker="sudo docker"
 alias docker-compose="sudo docker-compose"
 alias d="docker"
 alias dc="docker-compose"
+alias p="pwd"
 alias sb="cd $HOME/Development/Sandbox"
 
 export PYENV_ROOT="$HOME/.pyenv"
